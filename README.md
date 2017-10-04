@@ -1,1 +1,1 @@
-# Machine_Learning_Class
+# 2017 Machine Learning class
